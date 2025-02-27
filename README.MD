@@ -1,6 +1,6 @@
 # Game Development To-Do List
 ### Frame work
-- decided to use raylib in python because I hate myself :D. And because I can switch over to C at any time when game is complete if im running into performance issues and for learning game dev at its core.
+- Decided to use raylib in python because I hate myself :D. And because I can switch over to C at any time when game is complete if im running into performance issues and for learning game dev at its core.
 ## 1. Core Game Systems
 
 ### Unit System:
